@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on FullStack and Back-End
 - 🌱 I’m currently learning Typescrip and Node.js
 - 👯 I’m looking to collaborate on creative projects
-- 📫 How to reach me: email or linkrdin
+- 📫 How to reach me: email or linkedin
 
