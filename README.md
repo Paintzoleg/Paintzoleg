@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on FullStack and Back-End
 - 🌱 I’m currently learning Typescrip and Node.js
 - 👯 I’m looking to collaborate on creative projects
-- 📫 How to reach me: email or on [LinkedIn](https://www.linkedin.com/in/olegnazarenko) :)
+- 📫 How to reach me: Email or on [LinkedIn](https://www.linkedin.com/in/olegnazarenko) :)
 
